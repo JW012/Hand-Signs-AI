@@ -1,0 +1,43 @@
+
+button {
+    margin:0 auto;
+    margin-top: 1.8rem;
+    display:block;
+    font-size: 1.8rem;
+    font-family: 'Belanosima', sans-serif;
+    background-color: white;
+    border-color: aquamarine;
+    cursor: pointer;
+    border-radius: 20px;
+    height: 100px;
+    width: 200px;
+    align-items: center;
+}
+
+#label-container{
+    margin-left: 640px;
+    margin-bottom: 3rem;
+}
+
+#webcam-container{
+    margin-top: 3rem;
+    margin-left: 640px;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+#title{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-family: 'Belanosima', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#description{
+    font-size: 24px;
+    width: 800px;
+    margin: 0 auto;
+}
